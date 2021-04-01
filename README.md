@@ -2,7 +2,7 @@
 
 About Me:
 - Computer Science student at UCLA
-- Backend Engineer Intern at Deliverr
+- Backend Software Engineer Intern at Deliverr
 - Previous Software Development Engineer Intern at Amazon
 - Incoming Software Engineer Intern at Palantir
 

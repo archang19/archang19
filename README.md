@@ -2,11 +2,7 @@
 
 About Me:
 - Computer Science student at UCLA
-- Software Engineer Intern at Palantir
-- Previously: 
-  - Backend Software Engineer Intern at Deliverr
-  - Software Development Engineer Intern at Amazon
-
+- Interned at Palantir, Deliverr, Amazon
 
 <!---
 archang19/archang19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

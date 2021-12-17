@@ -2,7 +2,7 @@
 
 About Me:
 - Computer Science student at UCLA
-- Interned at Palantir, Deliverr, Amazon
+- Interned at Palantir, Deliverr, Zoox, and Amazon
 
 <!---
 archang19/archang19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

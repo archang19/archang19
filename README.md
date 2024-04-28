@@ -1,4 +1,4 @@
-👋 Hi, I’m Andrew. I recently graduated with a Computer Science degree from UCLA and am currently working as a software engineer at Airbnb.
+👋 Hi, I’m Andrew. I'm currently a software engineer at Airbnb.
 
 <!---
 archang19/archang19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
